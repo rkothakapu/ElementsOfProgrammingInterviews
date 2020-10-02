@@ -1,6 +1,3 @@
-from Chapter4_PrimitiveTypes.CTCI.CommonBitTasks import getBit
-
-
 def flipBitToWin(num):
     """
     You can flip exactly one bit from a 0 to 1.
