@@ -1,4 +1,4 @@
-def swap_bit(x: int, i: int, j: int) -> int:
+def swap_bits(x: int, i: int, j: int) -> int:
     """
     :param x: number in which bits are to be swapped
     :param i: position i
