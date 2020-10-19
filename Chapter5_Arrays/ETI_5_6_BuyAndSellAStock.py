@@ -1,7 +1,7 @@
 from typing import List
 
 
-def buy_and_sell_stock(prices: List[float]) -> float:
+def buy_and_sell_stock_once(prices: List[float]) -> float:
     if not prices:
         return 0.0
 
